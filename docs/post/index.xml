@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Miguel Cortes</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on Miguel Cortes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Aug 2017 00:28:40 -0500</lastBuildDate>
+    <atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first post</title>
+      <link>http://example.org/post/first-post/</link>
+      <pubDate>Tue, 22 Aug 2017 00:28:40 -0500</pubDate>
+      
+      <guid>http://example.org/post/first-post/</guid>
+      <description>&lt;p&gt;#Hello
+Welcome to my personal page. I&amp;rsquo;m Miguel Cortes&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
