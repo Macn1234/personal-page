@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Miguel Cortes"
-baseurl = "http://example.org/"
+baseurl = "https://macn1234.github.io/personal-page/"
 themesDir="themes"
 publishDir = "docs"
 theme = "aerial"
