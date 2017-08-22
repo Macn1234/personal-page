@@ -1,0 +1,38 @@
+languageCode = "en-us"
+title = "Miguel Cortes"
+baseurl = "http://example.org/"
+themesDir="themes"
+theme = "aerial"
+
+[params]
+  name = "Miguel Angel Cortes"
+  about = "Systems engineering student"
+  copyright = "Untitled"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/miguel.cortes.3762"
+
+[[params.social]]
+  medium = "Dribbble"
+  icon = "dribbble"
+  link = "#"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/Macn1234"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "https://plus.google.com/u/0/117144648886294691970"
